@@ -7,7 +7,7 @@
 Polynomial regression is one of the machine learning algorithms used for making predictions of continuous values.<br>
 Polynomial regression is a form of Linear regression where only due to the Non-linear relationship between dependent and independent variables, we add some polynomial terms to linear regression to convert it into Polynomial regression.
 
-Explore the dataset before jumping to the code.
+**Important Note-Explore the dataset once before jumping to the code.**
 </table>
 
 
